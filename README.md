@@ -1,5 +1,5 @@
 ### Typescript Practice Project
-This is simple project for practicing your Typescipt skills.
+This is a simple project for practicing your Typescipt skills.
 
 ------------
 
