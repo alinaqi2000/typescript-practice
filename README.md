@@ -25,7 +25,7 @@ This command is for compiling your latest Typescript code in the 'dist' director
 
 Finally this command will run the compiled JavaScript code from the 'dist' directory.
 
-> Note:  You will need to run `npm run start` command every time you make change in your code.
+> Note:  You will need to run `npm run start` command every time you make any change in your code.
 
 
 
