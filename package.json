@@ -1,5 +1,5 @@
 {
-  "name": "first",
+  "name": "typescript-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,6 @@
     "start": "node ./dist/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ali Naqi Al-Musawi",
   "license": "ISC"
 }
