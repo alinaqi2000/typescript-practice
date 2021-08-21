@@ -1,5 +1,5 @@
-### Laravel Vuejs Chat App
-This is a chat room app built with Laravel and Vue JS.
+### Typescript Practice Project
+This is a simple project for practicing your Typescipt skills.
 
 ------------
 
